@@ -1,10 +1,8 @@
 
 
 ###  Gildecy de Jesus Sá 👋
-- nivel  junior em 
--  linguage javascript
--  css
--  html 
+- com tecnoligia não há fronteiras!
+- nivel  junior em  programacao  web 
 -  
 [![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 [![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
