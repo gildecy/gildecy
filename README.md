@@ -1,7 +1,7 @@
 
 
 ###  Gildecy de Jesus Sá 👋
-- com tecnoligia não há fronteiras!
+- com tecnol      não  há fronteiras
 - nivel  junior em  programacao  web 
 -  
 [![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
