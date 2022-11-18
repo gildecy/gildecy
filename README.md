@@ -2,7 +2,7 @@
 
 ###  Gildecy de Jesus Sá 👋
 - com tecnol      não  há fronteiras
-- nivel  junior em  programacao  web 
+- nivel  junior front and  iniciando em react
 -  
 [![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 [![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
