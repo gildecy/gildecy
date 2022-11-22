@@ -1,6 +1,6 @@
 
 
-###  Gildecy de Jesus Sá 👋
+###  olá sou iniciante dedicado em programação front and 👋
 - com tecnol      não  há fronteiras
 - nivel  junior front and  /iniciando em React
 -  
