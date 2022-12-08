@@ -1,8 +1,7 @@
 
 
-###  olá sou iniciante dedicado em programação front and 👋
-- com tecnol      não  há fronteiras
-- nivel  junior front and  /iniciando em React
+dev front and junior 👋
+-iniciando com react
 -  
 [![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 [![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
